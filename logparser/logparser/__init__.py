@@ -1,1 +1,1 @@
-from .utils import evaluator
+from .IPLoM import LogParser

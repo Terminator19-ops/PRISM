@@ -17,11 +17,9 @@ def _split_data(x_data, y_data=None, train_ratio=0):
     x_train, x_test, y_train, y_test = train_test_split(
     x_data, y_data, test_size=0.5, random_state=42 )
   
-    
- 
     return (x_train, y_train), (x_test, y_test)
 
-def load_OpenStack(log_file, label_file=None, window='session', train_ratio=0.8, split_type='sequential'):
+def load_OpenStack(log_file, label_file=None, window='session', train_ratio=0.8, split_type='sequential', random_state=20):
     """ Load OpenStack structured log into train and test data
 
     Arguments
@@ -34,11 +32,14 @@ def load_OpenStack(log_file, label_file=None, window='session', train_ratio=0.8,
             to split positive samples and negative samples equally when setting label_file. `sequential`
             means to split the data sequentially without label_file. That is, the first part is for training,
             while the second part is for testing.
+        random_state: int or None, random state for reproducible sampling. Defaults to 20 to match
+            the documented benchmark partition (88 train anomalies, 92 test anomalies).
 
     Returns
     -------
         (x_train, y_train): the training data
         (x_test, y_test): the testing data
+        data_df: the processed dataframe
     """
 
     print('====== Input data summary ======')
@@ -48,15 +49,13 @@ def load_OpenStack(log_file, label_file=None, window='session', train_ratio=0.8,
         data = np.load(log_file)
         x_data = data['x_data']
         y_data = data['y_data']
-        (x_train, y_train), (x_test, y_test) = _split_data(x_data, y_data, train_ratio, split_type)
+        (x_train, y_train), (x_test, y_test) = _split_data(x_data, y_data, train_ratio)
 
     elif log_file.endswith('.csv'):
         assert window == 'session', "Only window=session is supported for OpenStack dataset."
         print("Loading", log_file)
         struct_log = pd.read_csv(log_file, engine='c',
                 na_filter=False, memory_map=True)
-       # struct_log = struct_log.sample(frac=1)
-       # struct_log = struct_log.iloc[0:20070]
         data_dict = OrderedDict()
         for idx, row in struct_log.iterrows():
             blkId_list = re.findall(r'(instance: \w*-\w*-\w*-\w*-\w*)', row['Content'])
@@ -66,7 +65,10 @@ def load_OpenStack(log_file, label_file=None, window='session', train_ratio=0.8,
                     data_dict[blk_Id] = []
                 data_dict[blk_Id].append(row['EventId'])
         data_df = pd.DataFrame(list(data_dict.items()), columns=['InstanceId', 'EventSequence'])
-        data_df = data_df.sample(frac=1)
+        if random_state is not None:
+            data_df = data_df.sample(frac=1, random_state=random_state)
+        else:
+            data_df = data_df.sample(frac=1)
         data_df = data_df.iloc[0:1162]
         
         if label_file:
@@ -78,7 +80,7 @@ def load_OpenStack(log_file, label_file=None, window='session', train_ratio=0.8,
 
             # Split train and test data
             (x_train, y_train), (x_test, y_test) = _split_data(data_df['EventSequence'].values, 
-                data_df['Label'].values, train_ratio, split_type)
+                data_df['Label'].values, train_ratio)
         
             print(y_train.sum(), y_test.sum())       
         
@@ -100,7 +102,3 @@ def load_OpenStack(log_file, label_file=None, window='session', train_ratio=0.8,
           .format(num_test, num_test_pos, num_test - num_test_pos))
 
     return (x_train, y_train), (x_test, y_test) , data_df
-
-
-
-

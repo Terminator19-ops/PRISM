@@ -11,7 +11,7 @@ import re
 from collections import Counter
 from scipy.special import expit
 from itertools import compress
-from torch.utils.data import DataLoader, Dataset
+# from torch.utils.data import DataLoader, Dataset
 
 
 class FeatureExtractor(object):

@@ -1,0 +1,29 @@
+# Version Control
+.git
+.gitignore
+
+# Python virtual environments & caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Development results & logs
+comparison_results/
+*.log
+*.tar
+.dist/
+*.egg-info/
+
+# Raw and redundant datasets (only model artifacts and tests needed in image)
+openstack-logs/
+loglizer/data/
+20k+4k destroy+10k undefined +4k dhcp_result/
+
+# Documentation & drafts
+docs/
+baseline_report.md
+temporal_report.md

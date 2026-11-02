@@ -1,0 +1,301 @@
+LineId,LevelName,Content
+1,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Claim successful on node parisaserver
+2,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Creating image
+3,INFO,Successfully plugged vif VIFOpenVSwitch
+4,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] VM Started (Lifecycle Event)
+5,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] VM Paused (Lifecycle Event)
+6,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] During sync_power_state the instance has a pending task (spawning). Skip.
+7,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] VM Resumed (Lifecycle Event)
+8,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Instance spawned successfully.
+9,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Took 5.19 seconds to spawn the instance on the hypervisor.
+10,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Claim successful on node parisaserver
+11,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] During sync_power_state the instance has a pending task (spawning). Skip.
+12,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Took 5.94 seconds to build instance.
+13,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Creating image
+14,INFO,Successfully plugged vif VIFOpenVSwitch
+15,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Claim successful on node parisaserver
+16,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Creating image
+17,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] VM Started (Lifecycle Event)
+18,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Instance spawned successfully.
+19,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Took 9.31 seconds to spawn the instance on the hypervisor.
+20,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] During sync_power_state the instance has a pending task (spawning). Skip.
+21,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] VM Paused (Lifecycle Event)
+22,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Took 11.66 seconds to build instance.
+23,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] VM Resumed (Lifecycle Event)
+24,INFO,Successfully plugged vif VIFOpenVSwitch
+25,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Claim successful on node parisaserver
+26,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Creating image
+27,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] VM Started (Lifecycle Event)
+28,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Instance spawned successfully.
+29,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Took 11.98 seconds to spawn the instance on the hypervisor.
+30,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] During sync_power_state the instance has a pending task (spawning). Skip.
+31,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] VM Paused (Lifecycle Event)
+32,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] VM Resumed (Lifecycle Event)
+33,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Took 14.64 seconds to build instance.
+34,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Claim successful on node parisaserver
+35,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Creating image
+36,INFO,Successfully plugged vif VIFOpenVSwitch
+37,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Claim successful on node parisaserver
+38,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] VM Started (Lifecycle Event)
+39,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Instance spawned successfully.
+40,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Took 23.11 seconds to spawn the instance on the hypervisor.
+41,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] During sync_power_state the instance has a pending task (spawning). Skip.
+42,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] VM Paused (Lifecycle Event)
+43,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] VM Resumed (Lifecycle Event)
+44,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Took 28.42 seconds to build instance.
+45,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Creating image
+46,INFO,Successfully plugged vif VIFOpenVSwitch
+47,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Claim successful on node parisaserver
+48,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Creating image
+49,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] VM Started (Lifecycle Event)
+50,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Instance spawned successfully.
+51,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Took 41.40 seconds to spawn the instance on the hypervisor.
+52,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] During sync_power_state the instance has a pending task (spawning). Skip.
+53,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] VM Paused (Lifecycle Event)
+54,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] VM Resumed (Lifecycle Event)
+55,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Took 46.47 seconds to build instance.
+56,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Claim successful on node parisaserver
+57,INFO,Successfully plugged vif VIFOpenVSwitch
+58,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Creating image
+59,INFO,Successfully plugged vif VIFOpenVSwitch
+60,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Claim successful on node parisaserver
+61,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Creating image
+62,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Terminating instance
+63,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Instance destroyed successfully.
+64,INFO,Successfully unplugged vif VIFOpenVSwitch
+65,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Deleting instance files /opt/stack/data/nova/instances/11760334-ac63-4cc8-9086-578422af8c99_del
+66,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Deletion of /opt/stack/data/nova/instances/11760334-ac63-4cc8-9086-578422af8c99_del complete
+67,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Took 4.14 seconds to destroy the instance on the hypervisor.
+68,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] VM Started (Lifecycle Event)
+69,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Instance spawned successfully.
+70,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Took 71.63 seconds to spawn the instance on the hypervisor.
+71,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] During sync_power_state the instance has a pending task (spawning). Skip.
+72,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] VM Paused (Lifecycle Event)
+73,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Took 80.76 seconds to build instance.
+74,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] VM Resumed (Lifecycle Event)
+75,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] VM Started (Lifecycle Event)
+76,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Instance spawned successfully.
+77,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Took 60.99 seconds to spawn the instance on the hypervisor.
+78,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] During sync_power_state the instance has a pending task (spawning). Skip.
+79,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] VM Paused (Lifecycle Event)
+80,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] VM Resumed (Lifecycle Event)
+81,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Took 69.62 seconds to build instance.
+82,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] VM Stopped (Lifecycle Event)
+83,INFO,Successfully plugged vif VIFOpenVSwitch
+84,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Claim successful on node parisaserver
+85,INFO,req-9a79724b-eae4-4e8c-842f-1bb397e6afd7 service nova] [instance: 11760334-ac63-4cc8-9086-578422af8c99] Neutron deleted interface a4350e52-0fe5-489a-ae3a-48cbf8b4715a; detaching it from the instance and deleting it from the info cache
+86,INFO,[instance: 11760334-ac63-4cc8-9086-578422af8c99] Took 25.91 seconds to deallocate network for instance.
+87,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Creating image
+88,INFO,Deleted allocation for instance 11760334-ac63-4cc8-9086-578422af8c99
+89,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Terminating instance
+90,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Instance destroyed successfully.
+91,INFO,Successfully unplugged vif VIFOpenVSwitch
+92,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Deleting instance files /opt/stack/data/nova/instances/b9f0f7cd-31c1-4edf-9a8d-129d4efff387_del
+93,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Deletion of /opt/stack/data/nova/instances/b9f0f7cd-31c1-4edf-9a8d-129d4efff387_del complete
+94,INFO,Successfully plugged vif VIFOpenVSwitch
+95,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Took 3.33 seconds to destroy the instance on the hypervisor.
+96,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] VM Started (Lifecycle Event)
+97,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] VM Paused (Lifecycle Event)
+98,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] During sync_power_state the instance has a pending task (spawning). Skip.
+99,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] Took 12.28 seconds to deallocate network for instance.
+100,INFO,[instance: b9f0f7cd-31c1-4edf-9a8d-129d4efff387] VM Stopped (Lifecycle Event)
+101,INFO,Deleted allocation for instance b9f0f7cd-31c1-4edf-9a8d-129d4efff387
+102,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] VM Resumed (Lifecycle Event)
+103,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Instance spawned successfully.
+104,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Took 82.50 seconds to spawn the instance on the hypervisor.
+105,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Took 93.57 seconds to build instance.
+106,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] VM Started (Lifecycle Event)
+107,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] VM Paused (Lifecycle Event)
+108,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] During sync_power_state the instance has a pending task (spawning). Skip.
+109,INFO,Successfully plugged vif VIFOpenVSwitch
+110,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Claim successful on node parisaserver
+111,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] VM Resumed (Lifecycle Event)
+112,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Instance spawned successfully.
+113,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Took 74.45 seconds to spawn the instance on the hypervisor.
+114,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Took 85.84 seconds to build instance.
+115,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Creating image
+116,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Terminating instance
+117,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Instance destroyed successfully.
+118,INFO,Successfully unplugged vif VIFOpenVSwitch
+119,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Deleting instance files /opt/stack/data/nova/instances/f52f599a-b2a2-478c-bcfe-9933528dd526_del
+120,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Deletion of /opt/stack/data/nova/instances/f52f599a-b2a2-478c-bcfe-9933528dd526_del complete
+121,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Took 3.86 seconds to destroy the instance on the hypervisor.
+122,WARNING,Error from libvirt while getting description of instance-00000072: [Error Code 42] Domain not found: no domain with matching uuid 'f52f599a-b2a2-478c-bcfe-9933528dd526' (instance-00000072): libvirt.libvirtError: Domain not found: no domain with matching uuid 'f52f599a-b2a2-478c-bcfe-9933528dd526' (instance-00000072)
+123,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] VM Started (Lifecycle Event)
+124,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] VM Paused (Lifecycle Event)
+125,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] During sync_power_state the instance has a pending task (spawning). Skip.
+126,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] VM Resumed (Lifecycle Event)
+127,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Instance spawned successfully.
+128,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Took 61.11 seconds to spawn the instance on the hypervisor.
+129,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] During sync_power_state the instance has a pending task (spawning). Skip.
+130,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Took 68.31 seconds to build instance.
+131,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] VM Stopped (Lifecycle Event)
+132,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] Claim successful on node parisaserver
+133,INFO,[instance: f52f599a-b2a2-478c-bcfe-9933528dd526] Took 23.28 seconds to deallocate network for instance.
+134,INFO,Deleted allocation for instance f52f599a-b2a2-478c-bcfe-9933528dd526
+135,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] Creating image
+136,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Terminating instance
+137,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Instance destroyed successfully.
+138,INFO,Successfully unplugged vif VIFOpenVSwitch
+139,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Deleting instance files /opt/stack/data/nova/instances/7e95473d-7602-4e51-a383-19cddf7474cc_del
+140,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Deletion of /opt/stack/data/nova/instances/7e95473d-7602-4e51-a383-19cddf7474cc_del complete
+141,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Took 5.71 seconds to destroy the instance on the hypervisor.
+142,INFO,Successfully plugged vif VIFOpenVSwitch
+143,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] VM Stopped (Lifecycle Event)
+144,INFO,req-729f6d7f-9056-4dd9-9d30-21298cdb2a6b service nova] [instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Neutron deleted interface 5efc3981-f1b4-4dba-bdd4-9c32dac02a3c; detaching it from the instance and deleting it from the info cache
+145,INFO,[instance: 7e95473d-7602-4e51-a383-19cddf7474cc] Took 13.42 seconds to deallocate network for instance.
+146,INFO,Deleted allocation for instance 7e95473d-7602-4e51-a383-19cddf7474cc
+147,INFO,Successfully plugged vif VIFOpenVSwitch
+148,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] Claim successful on node parisaserver
+149,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] VM Started (Lifecycle Event)
+150,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] VM Paused (Lifecycle Event)
+151,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Instance spawned successfully.
+152,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Took 82.81 seconds to spawn the instance on the hypervisor.
+153,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] VM Resumed (Lifecycle Event)
+154,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Took 93.32 seconds to build instance.
+155,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] Creating image
+156,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Terminating instance
+157,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Instance destroyed successfully.
+158,INFO,Successfully unplugged vif VIFOpenVSwitch
+159,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Deleting instance files /opt/stack/data/nova/instances/9a6798ef-bdaa-43eb-b486-499725a86d73_del
+160,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Deletion of /opt/stack/data/nova/instances/9a6798ef-bdaa-43eb-b486-499725a86d73_del complete
+161,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Took 2.15 seconds to destroy the instance on the hypervisor.
+162,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] VM Started (Lifecycle Event)
+163,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] Instance spawned successfully.
+164,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] Took 53.89 seconds to spawn the instance on the hypervisor.
+165,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] During sync_power_state the instance has a pending task (spawning). Skip.
+166,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] VM Paused (Lifecycle Event)
+167,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] Took 65.23 seconds to build instance.
+168,INFO,[instance: dbb26294-5c0f-4970-ab33-43e3d411e9bb] VM Resumed (Lifecycle Event)
+169,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] Took 10.10 seconds to deallocate network for instance.
+170,INFO,Deleted allocation for instance 9a6798ef-bdaa-43eb-b486-499725a86d73
+171,INFO,[instance: 9a6798ef-bdaa-43eb-b486-499725a86d73] VM Stopped (Lifecycle Event)
+172,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] Claim successful on node parisaserver
+173,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] Creating image
+174,INFO,Successfully plugged vif VIFOpenVSwitch
+175,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Terminating instance
+176,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Instance destroyed successfully.
+177,INFO,Successfully unplugged vif VIFOpenVSwitch
+178,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Deleting instance files /opt/stack/data/nova/instances/18027701-58cc-4bff-8b0f-afefbf093d3d_del
+179,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Deletion of /opt/stack/data/nova/instances/18027701-58cc-4bff-8b0f-afefbf093d3d_del complete
+180,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] VM Started (Lifecycle Event)
+181,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] Instance spawned successfully.
+182,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] Took 41.54 seconds to spawn the instance on the hypervisor.
+183,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] During sync_power_state the instance has a pending task (spawning). Skip.
+184,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] VM Paused (Lifecycle Event)
+185,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] Took 50.36 seconds to build instance.
+186,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Took 4.26 seconds to destroy the instance on the hypervisor.
+187,INFO,[instance: e4faecd7-54e4-470b-83af-8c021fb864d7] VM Resumed (Lifecycle Event)
+188,WARNING,Error from libvirt while getting description of instance-00000075: [Error Code 42] Domain not found: no domain with matching uuid '18027701-58cc-4bff-8b0f-afefbf093d3d' (instance-00000075): libvirt.libvirtError: Domain not found: no domain with matching uuid '18027701-58cc-4bff-8b0f-afefbf093d3d' (instance-00000075)
+189,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] Took 9.06 seconds to deallocate network for instance.
+190,INFO,Deleted allocation for instance 18027701-58cc-4bff-8b0f-afefbf093d3d
+191,INFO,[instance: 18027701-58cc-4bff-8b0f-afefbf093d3d] VM Stopped (Lifecycle Event)
+192,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] Claim successful on node parisaserver
+193,INFO,Successfully plugged vif VIFOpenVSwitch
+194,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] Creating image
+195,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Terminating instance
+196,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Instance destroyed successfully.
+197,INFO,Successfully unplugged vif VIFOpenVSwitch
+198,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Deleting instance files /opt/stack/data/nova/instances/7917c8e7-bd58-49a9-9200-7d5bf89538b3_del
+199,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Deletion of /opt/stack/data/nova/instances/7917c8e7-bd58-49a9-9200-7d5bf89538b3_del complete
+200,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Took 2.89 seconds to destroy the instance on the hypervisor.
+201,INFO,req-fc6b9e1c-27b1-4bd3-8049-806b9e9406e8 service nova] [instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Neutron deleted interface b9aafda3-b1c7-45bc-9461-92afcdb0065c; detaching it from the instance and deleting it from the info cache
+202,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] Took 3.87 seconds to deallocate network for instance.
+203,INFO,Deleted allocation for instance 7917c8e7-bd58-49a9-9200-7d5bf89538b3
+204,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] VM Started (Lifecycle Event)
+205,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] VM Paused (Lifecycle Event)
+206,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] During sync_power_state the instance has a pending task (spawning). Skip.
+207,INFO,image d8e071ca-b1ff-43eb-8978-9a783706ec85 at (/opt/stack/data/nova/instances/_base/d12b8d1e40d4dd7082251697a276838622676c8e): checking
+208,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] VM Resumed (Lifecycle Event)
+209,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] Instance spawned successfully.
+210,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] Took 49.40 seconds to spawn the instance on the hypervisor.
+211,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] During sync_power_state the instance has a pending task (spawning). Skip.
+212,INFO,[instance: d217d302-8e85-4124-9178-24b33e15bfa1] Took 55.31 seconds to build instance.
+213,INFO,Active base files: /opt/stack/data/nova/instances/_base/d12b8d1e40d4dd7082251697a276838622676c8e
+214,INFO,[instance: 7917c8e7-bd58-49a9-9200-7d5bf89538b3] VM Stopped (Lifecycle Event)
+215,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] Claim successful on node parisaserver
+216,INFO,Successfully plugged vif VIFOpenVSwitch
+217,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] Creating image
+218,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Terminating instance
+219,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Instance destroyed successfully.
+220,INFO,Successfully unplugged vif VIFOpenVSwitch
+221,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Deleting instance files /opt/stack/data/nova/instances/506a23f5-6cec-4d64-abf8-16e017154255_del
+222,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Deletion of /opt/stack/data/nova/instances/506a23f5-6cec-4d64-abf8-16e017154255_del complete
+223,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Took 2.52 seconds to destroy the instance on the hypervisor.
+224,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] VM Started (Lifecycle Event)
+225,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] VM Paused (Lifecycle Event)
+226,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] During sync_power_state the instance has a pending task (spawning). Skip.
+227,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] Took 9.66 seconds to deallocate network for instance.
+228,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] VM Resumed (Lifecycle Event)
+229,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] Instance spawned successfully.
+230,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] Took 38.55 seconds to spawn the instance on the hypervisor.
+231,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] During sync_power_state the instance has a pending task (spawning). Skip.
+232,INFO,[instance: 4ffa6f8d-76c3-4aef-a3a0-f0a0a5c077de] Took 43.27 seconds to build instance.
+233,INFO,Deleted allocation for instance 506a23f5-6cec-4d64-abf8-16e017154255
+234,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] Claim successful on node parisaserver
+235,INFO,Successfully plugged vif VIFOpenVSwitch
+236,INFO,[instance: 506a23f5-6cec-4d64-abf8-16e017154255] VM Stopped (Lifecycle Event)
+237,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] Creating image
+238,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Terminating instance
+239,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Instance destroyed successfully.
+240,INFO,Successfully unplugged vif VIFOpenVSwitch
+241,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Deleting instance files /opt/stack/data/nova/instances/a306719a-537e-42b3-9073-bfb4600d072e_del
+242,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Deletion of /opt/stack/data/nova/instances/a306719a-537e-42b3-9073-bfb4600d072e_del complete
+243,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Took 2.76 seconds to destroy the instance on the hypervisor.
+244,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] VM Started (Lifecycle Event)
+245,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] Instance spawned successfully.
+246,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] Took 30.52 seconds to spawn the instance on the hypervisor.
+247,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] During sync_power_state the instance has a pending task (spawning). Skip.
+248,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] VM Paused (Lifecycle Event)
+249,INFO,req-35b14784-8157-4ec7-8b8e-73acb8f907f8 service nova] [instance: a306719a-537e-42b3-9073-bfb4600d072e] Neutron deleted interface b054937f-40b9-4048-bd8c-33199f940166; detaching it from the instance and deleting it from the info cache
+250,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] Took 4.09 seconds to deallocate network for instance.
+251,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] VM Resumed (Lifecycle Event)
+252,INFO,[instance: 90419b8c-39d8-4d8c-b7c0-fa2a8abb30a7] Took 35.01 seconds to build instance.
+253,INFO,Deleted allocation for instance a306719a-537e-42b3-9073-bfb4600d072e
+254,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] Claim successful on node parisaserver
+255,INFO,Successfully plugged vif VIFOpenVSwitch
+256,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] Creating image
+257,WARNING,"While synchronizing instance power states, found 9 instances in the database and 8 instances on the hypervisor."
+258,INFO,[instance: a306719a-537e-42b3-9073-bfb4600d072e] VM Stopped (Lifecycle Event)
+259,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Terminating instance
+260,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Instance destroyed successfully.
+261,INFO,Successfully unplugged vif VIFOpenVSwitch
+262,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Deleting instance files /opt/stack/data/nova/instances/02915417-a4bb-47e6-ae34-668f770451bf_del
+263,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Deletion of /opt/stack/data/nova/instances/02915417-a4bb-47e6-ae34-668f770451bf_del complete
+264,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Took 2.10 seconds to destroy the instance on the hypervisor.
+265,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] VM Started (Lifecycle Event)
+266,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] VM Paused (Lifecycle Event)
+267,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] During sync_power_state the instance has a pending task (spawning). Skip.
+268,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] Took 4.03 seconds to deallocate network for instance.
+269,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] VM Resumed (Lifecycle Event)
+270,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] Instance spawned successfully.
+271,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] Took 27.77 seconds to spawn the instance on the hypervisor.
+272,INFO,Deleted allocation for instance 02915417-a4bb-47e6-ae34-668f770451bf
+273,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] During sync_power_state the instance has a pending task (spawning). Skip.
+274,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] Took 32.55 seconds to build instance.
+275,INFO,[instance: 8f6e0fcd-be00-481e-ab11-6456e625d93d] During sync_power_state the instance has a pending task (spawning). Skip.
+276,INFO,[instance: 9c866b19-7db4-4676-9791-db1b0584c2e4] Claim successful on node parisaserver
+277,INFO,Successfully plugged vif VIFOpenVSwitch
+278,INFO,[instance: 02915417-a4bb-47e6-ae34-668f770451bf] VM Stopped (Lifecycle Event)
+279,INFO,[instance: 9c866b19-7db4-4676-9791-db1b0584c2e4] Creating image
+280,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Terminating instance
+281,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Instance destroyed successfully.
+282,INFO,Successfully unplugged vif VIFOpenVSwitch
+283,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Deleting instance files /opt/stack/data/nova/instances/2f093863-6416-4d09-ac00-7ea45d932d36_del
+284,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Deletion of /opt/stack/data/nova/instances/2f093863-6416-4d09-ac00-7ea45d932d36_del complete
+285,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Took 2.54 seconds to destroy the instance on the hypervisor.
+286,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] VM Started (Lifecycle Event)
+287,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] Instance spawned successfully.
+288,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] Took 26.90 seconds to spawn the instance on the hypervisor.
+289,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] During sync_power_state the instance has a pending task (spawning). Skip.
+290,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] VM Paused (Lifecycle Event)
+291,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] Took 31.67 seconds to build instance.
+292,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] During sync_power_state the instance has a pending task (block_device_mapping). Skip.
+293,INFO,[instance: b3ab54d4-3764-4254-a1ae-5ed7ace9a188] VM Resumed (Lifecycle Event)
+294,INFO,Successfully plugged vif VIFOpenVSwitch
+295,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Took 10.66 seconds to deallocate network for instance.
+296,INFO,req-707545c2-465b-48c9-8391-3b49792e1e1c service nova] [instance: 2f093863-6416-4d09-ac00-7ea45d932d36] Neutron deleted interface 6a474092-bd6b-481a-9005-7dd95f42addd; detaching it from the instance and deleting it from the info cache
+297,INFO,Deleted allocation for instance 2f093863-6416-4d09-ac00-7ea45d932d36
+298,INFO,[instance: 2f093863-6416-4d09-ac00-7ea45d932d36] VM Stopped (Lifecycle Event)
+299,INFO,[instance: d3332800-3a00-4825-a6d8-2217becaacc1] Claim successful on node parisaserver
+300,INFO,[instance: d3332800-3a00-4825-a6d8-2217becaacc1] Creating image

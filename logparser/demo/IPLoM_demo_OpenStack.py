@@ -9,9 +9,9 @@ import sys
 sys.path.append('../')
 from logparser import IPLoM
 
-input_dir    = '../logs/OpenStack/'  # The input directory of log file
+input_dir    = '/home/terminator18ops/Documents/Aditya/SEM-5/cloud_computing/Project/OpenStack/openstack-logs/'  # The input directory of log file
 output_dir   = '20k+4k destroy+10k undefined +4k dhcp_result/'  # The output directory of parsing results
-log_file     = '20k+4k destroy+10k undefined +4k dhcp.log'  # The input log file name
+log_file     = 'openstack-nova-sample.log'  # The input log file name
 log_format   = '<LevelName> <name> <request_id> <Content>'  # OpenStack log format
 maxEventLen  = 500  # The maximal token number of log messages (default: 200)
 step2Support = 0  # The minimal support for creating a new partition (default: 0)
